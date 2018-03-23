@@ -1,0 +1,11 @@
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp2.0\KnightsOfHonor.deps.json
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp2.0\KnightsOfHonor.runtimeconfig.json
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp2.0\KnightsOfHonor.runtimeconfig.dev.json
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp2.0\KnightsOfHonor.dll
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp2.0\KnightsOfHonor.pdb
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp2.0\KnightsOfHonor.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp2.0\KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp2.0\KnightsOfHonor.AssemblyInfoInputs.cache
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp2.0\KnightsOfHonor.AssemblyInfo.cs
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp2.0\KnightsOfHonor.dll
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp2.0\KnightsOfHonor.pdb

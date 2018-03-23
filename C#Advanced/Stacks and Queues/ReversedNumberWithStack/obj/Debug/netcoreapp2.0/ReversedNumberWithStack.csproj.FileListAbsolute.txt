@@ -1,0 +1,11 @@
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\ReversedNumberWithStack\bin\Debug\netcoreapp2.0\ReversedNumberWithStack.deps.json
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\ReversedNumberWithStack\bin\Debug\netcoreapp2.0\ReversedNumberWithStack.runtimeconfig.json
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\ReversedNumberWithStack\bin\Debug\netcoreapp2.0\ReversedNumberWithStack.runtimeconfig.dev.json
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\ReversedNumberWithStack\bin\Debug\netcoreapp2.0\ReversedNumberWithStack.dll
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\ReversedNumberWithStack\bin\Debug\netcoreapp2.0\ReversedNumberWithStack.pdb
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\ReversedNumberWithStack\obj\Debug\netcoreapp2.0\ReversedNumberWithStack.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\ReversedNumberWithStack\obj\Debug\netcoreapp2.0\ReversedNumberWithStack.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\ReversedNumberWithStack\obj\Debug\netcoreapp2.0\ReversedNumberWithStack.AssemblyInfoInputs.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\ReversedNumberWithStack\obj\Debug\netcoreapp2.0\ReversedNumberWithStack.AssemblyInfo.cs
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\ReversedNumberWithStack\obj\Debug\netcoreapp2.0\ReversedNumberWithStack.dll
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\ReversedNumberWithStack\obj\Debug\netcoreapp2.0\ReversedNumberWithStack.pdb

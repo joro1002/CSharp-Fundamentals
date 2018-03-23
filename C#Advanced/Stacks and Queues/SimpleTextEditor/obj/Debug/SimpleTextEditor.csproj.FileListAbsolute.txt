@@ -1,0 +1,7 @@
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb

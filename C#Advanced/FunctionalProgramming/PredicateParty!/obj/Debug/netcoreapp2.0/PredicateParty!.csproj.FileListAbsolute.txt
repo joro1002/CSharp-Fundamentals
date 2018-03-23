@@ -1,0 +1,11 @@
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateParty!\bin\Debug\netcoreapp2.0\PredicateParty!.deps.json
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateParty!\bin\Debug\netcoreapp2.0\PredicateParty!.runtimeconfig.json
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateParty!\bin\Debug\netcoreapp2.0\PredicateParty!.runtimeconfig.dev.json
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateParty!\bin\Debug\netcoreapp2.0\PredicateParty!.dll
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateParty!\bin\Debug\netcoreapp2.0\PredicateParty!.pdb
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateParty!\obj\Debug\netcoreapp2.0\PredicateParty!.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateParty!\obj\Debug\netcoreapp2.0\PredicateParty!.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateParty!\obj\Debug\netcoreapp2.0\PredicateParty!.AssemblyInfoInputs.cache
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateParty!\obj\Debug\netcoreapp2.0\PredicateParty!.AssemblyInfo.cs
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateParty!\obj\Debug\netcoreapp2.0\PredicateParty!.dll
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateParty!\obj\Debug\netcoreapp2.0\PredicateParty!.pdb

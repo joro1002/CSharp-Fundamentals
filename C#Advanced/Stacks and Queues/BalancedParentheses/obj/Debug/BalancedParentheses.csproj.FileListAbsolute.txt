@@ -1,0 +1,7 @@
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\BalancedParentheses\bin\Debug\BalancedParentheses.exe.config
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\BalancedParentheses\bin\Debug\BalancedParentheses.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\BalancedParentheses\bin\Debug\BalancedParentheses.pdb
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\BalancedParentheses\obj\Debug\BalancedParentheses.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\BalancedParentheses\obj\Debug\BalancedParentheses.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\BalancedParentheses\obj\Debug\BalancedParentheses.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\BalancedParentheses\obj\Debug\BalancedParentheses.pdb

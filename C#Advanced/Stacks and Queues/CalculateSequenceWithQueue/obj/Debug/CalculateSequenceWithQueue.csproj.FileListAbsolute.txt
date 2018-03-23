@@ -1,0 +1,7 @@
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe.config
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.pdb
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.pdb

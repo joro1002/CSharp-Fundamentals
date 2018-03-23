@@ -1,0 +1,11 @@
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.deps.json
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.runtimeconfig.json
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.runtimeconfig.dev.json
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.dll
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.pdb
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.AssemblyInfoInputs.cache
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.AssemblyInfo.cs
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.dll
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.pdb

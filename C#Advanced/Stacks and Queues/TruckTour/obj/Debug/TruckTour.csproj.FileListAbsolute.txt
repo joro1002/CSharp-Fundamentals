@@ -1,0 +1,6 @@
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\TruckTour\bin\Debug\TruckTour.exe.config
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\TruckTour\bin\Debug\TruckTour.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\TruckTour\bin\Debug\TruckTour.pdb
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\TruckTour\obj\Debug\TruckTour.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\TruckTour\obj\Debug\TruckTour.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\TruckTour\obj\Debug\TruckTour.pdb

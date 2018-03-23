@@ -1,0 +1,11 @@
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.deps.json
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.runtimeconfig.json
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.runtimeconfig.dev.json
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.dll
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.pdb
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.AssemblyInfoInputs.cache
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.AssemblyInfo.cs
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.dll
+D:\C# Fundamentals\C# Advanced\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.pdb

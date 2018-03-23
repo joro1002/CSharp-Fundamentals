@@ -1,0 +1,7 @@
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\RecursiveFibonacci\bin\Debug\RecursiveFibonacci.exe.config
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\RecursiveFibonacci\bin\Debug\RecursiveFibonacci.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\RecursiveFibonacci\bin\Debug\RecursiveFibonacci.pdb
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.pdb

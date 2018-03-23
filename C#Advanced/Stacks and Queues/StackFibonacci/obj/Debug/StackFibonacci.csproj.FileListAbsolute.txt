@@ -1,0 +1,7 @@
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\StackFibonacci\bin\Debug\StackFibonacci.exe.config
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\StackFibonacci\bin\Debug\StackFibonacci.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\StackFibonacci\bin\Debug\StackFibonacci.pdb
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\StackFibonacci\obj\Debug\StackFibonacci.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\StackFibonacci\obj\Debug\StackFibonacci.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\StackFibonacci\obj\Debug\StackFibonacci.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues\StackFibonacci\obj\Debug\StackFibonacci.pdb
