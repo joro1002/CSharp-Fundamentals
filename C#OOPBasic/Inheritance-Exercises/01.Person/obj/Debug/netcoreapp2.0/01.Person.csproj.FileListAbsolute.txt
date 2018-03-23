@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\Inheritance-Exercises\01.Person\bin\Debug\netcoreapp2.0\01.Person.deps.json
+D:\C# Fundamentals\OOP-Basics\Inheritance-Exercises\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\Inheritance-Exercises\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\Inheritance-Exercises\01.Person\bin\Debug\netcoreapp2.0\01.Person.dll
+D:\C# Fundamentals\OOP-Basics\Inheritance-Exercises\01.Person\bin\Debug\netcoreapp2.0\01.Person.pdb
+D:\C# Fundamentals\OOP-Basics\Inheritance-Exercises\01.Person\obj\Debug\netcoreapp2.0\01.Person.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\Inheritance-Exercises\01.Person\obj\Debug\netcoreapp2.0\01.Person.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\Inheritance-Exercises\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\Inheritance-Exercises\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\Inheritance-Exercises\01.Person\obj\Debug\netcoreapp2.0\01.Person.dll
+D:\C# Fundamentals\OOP-Basics\Inheritance-Exercises\01.Person\obj\Debug\netcoreapp2.0\01.Person.pdb

@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.deps.json
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.dll
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.pdb
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.dll
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.pdb

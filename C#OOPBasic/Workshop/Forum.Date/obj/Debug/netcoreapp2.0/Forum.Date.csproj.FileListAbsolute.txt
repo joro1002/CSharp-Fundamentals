@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\Workshop\Forum.Date\bin\Debug\netcoreapp2.0\Forum.Date.deps.json
+D:\C# Fundamentals\OOP-Basics\Workshop\Forum.Date\bin\Debug\netcoreapp2.0\Forum.Date.dll
+D:\C# Fundamentals\OOP-Basics\Workshop\Forum.Date\bin\Debug\netcoreapp2.0\Forum.Date.pdb
+D:\C# Fundamentals\OOP-Basics\Workshop\Forum.Date\bin\Debug\netcoreapp2.0\Forum.Models.dll
+D:\C# Fundamentals\OOP-Basics\Workshop\Forum.Date\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+D:\C# Fundamentals\OOP-Basics\Workshop\Forum.Date\obj\Debug\netcoreapp2.0\Forum.Date.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\Workshop\Forum.Date\obj\Debug\netcoreapp2.0\Forum.Date.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\Workshop\Forum.Date\obj\Debug\netcoreapp2.0\Forum.Date.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\Workshop\Forum.Date\obj\Debug\netcoreapp2.0\Forum.Date.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\Workshop\Forum.Date\obj\Debug\netcoreapp2.0\Forum.Date.dll
+D:\C# Fundamentals\OOP-Basics\Workshop\Forum.Date\obj\Debug\netcoreapp2.0\Forum.Date.pdb

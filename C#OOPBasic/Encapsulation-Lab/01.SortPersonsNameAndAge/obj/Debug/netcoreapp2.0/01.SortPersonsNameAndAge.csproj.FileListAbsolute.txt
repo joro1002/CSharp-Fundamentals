@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\01.SortPersonsNameAndAge\bin\Debug\netcoreapp2.0\01.SortPersonsNameAndAge.deps.json
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\01.SortPersonsNameAndAge\bin\Debug\netcoreapp2.0\01.SortPersonsNameAndAge.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\01.SortPersonsNameAndAge\bin\Debug\netcoreapp2.0\01.SortPersonsNameAndAge.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\01.SortPersonsNameAndAge\bin\Debug\netcoreapp2.0\01.SortPersonsNameAndAge.dll
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\01.SortPersonsNameAndAge\bin\Debug\netcoreapp2.0\01.SortPersonsNameAndAge.pdb
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\01.SortPersonsNameAndAge\obj\Debug\netcoreapp2.0\01.SortPersonsNameAndAge.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\01.SortPersonsNameAndAge\obj\Debug\netcoreapp2.0\01.SortPersonsNameAndAge.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\01.SortPersonsNameAndAge\obj\Debug\netcoreapp2.0\01.SortPersonsNameAndAge.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\01.SortPersonsNameAndAge\obj\Debug\netcoreapp2.0\01.SortPersonsNameAndAge.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\01.SortPersonsNameAndAge\obj\Debug\netcoreapp2.0\01.SortPersonsNameAndAge.dll
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Lab\01.SortPersonsNameAndAge\obj\Debug\netcoreapp2.0\01.SortPersonsNameAndAge.pdb

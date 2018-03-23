@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\Polymorphism-Exercises\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.deps.json
+D:\C# Fundamentals\OOP-Basics\Polymorphism-Exercises\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\Polymorphism-Exercises\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\Polymorphism-Exercises\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.dll
+D:\C# Fundamentals\OOP-Basics\Polymorphism-Exercises\02.VehiclesExtension\bin\Debug\netcoreapp2.0\02.VehiclesExtension.pdb
+D:\C# Fundamentals\OOP-Basics\Polymorphism-Exercises\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\Polymorphism-Exercises\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\Polymorphism-Exercises\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\Polymorphism-Exercises\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\Polymorphism-Exercises\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.dll
+D:\C# Fundamentals\OOP-Basics\Polymorphism-Exercises\02.VehiclesExtension\obj\Debug\netcoreapp2.0\02.VehiclesExtension.pdb

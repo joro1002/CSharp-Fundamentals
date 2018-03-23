@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.deps.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.dll
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.pdb
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.dll
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.pdb

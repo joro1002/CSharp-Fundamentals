@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.deps.json
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.dll
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.pdb
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.dll
+D:\C# Fundamentals\OOP-Basics\Encapsulation-Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.pdb

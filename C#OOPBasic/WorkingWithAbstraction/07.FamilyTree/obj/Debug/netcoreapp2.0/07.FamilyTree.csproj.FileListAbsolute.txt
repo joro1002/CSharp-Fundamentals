@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\07.FamilyTree\obj\Debug\netcoreapp2.0\07.FamilyTree.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\07.FamilyTree\obj\Debug\netcoreapp2.0\07.FamilyTree.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\07.FamilyTree\obj\Debug\netcoreapp2.0\07.FamilyTree.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\07.FamilyTree\obj\Debug\netcoreapp2.0\07.FamilyTree.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\07.FamilyTree\bin\Debug\netcoreapp2.0\07.FamilyTree.deps.json
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\07.FamilyTree\bin\Debug\netcoreapp2.0\07.FamilyTree.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\07.FamilyTree\bin\Debug\netcoreapp2.0\07.FamilyTree.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\07.FamilyTree\bin\Debug\netcoreapp2.0\07.FamilyTree.dll
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\07.FamilyTree\bin\Debug\netcoreapp2.0\07.FamilyTree.pdb
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\07.FamilyTree\obj\Debug\netcoreapp2.0\07.FamilyTree.dll
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\07.FamilyTree\obj\Debug\netcoreapp2.0\07.FamilyTree.pdb

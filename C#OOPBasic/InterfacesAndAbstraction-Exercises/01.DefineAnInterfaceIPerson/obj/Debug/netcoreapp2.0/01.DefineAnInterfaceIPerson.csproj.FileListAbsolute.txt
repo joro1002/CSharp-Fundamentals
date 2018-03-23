@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\InterfacesAndAbstraction-Exercises\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.deps.json
+D:\C# Fundamentals\OOP-Basics\InterfacesAndAbstraction-Exercises\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\InterfacesAndAbstraction-Exercises\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\InterfacesAndAbstraction-Exercises\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.dll
+D:\C# Fundamentals\OOP-Basics\InterfacesAndAbstraction-Exercises\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.pdb
+D:\C# Fundamentals\OOP-Basics\InterfacesAndAbstraction-Exercises\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\InterfacesAndAbstraction-Exercises\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\InterfacesAndAbstraction-Exercises\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\InterfacesAndAbstraction-Exercises\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\InterfacesAndAbstraction-Exercises\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.dll
+D:\C# Fundamentals\OOP-Basics\InterfacesAndAbstraction-Exercises\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.pdb

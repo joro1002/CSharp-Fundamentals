@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\02.CarsSalesman\obj\Debug\netcoreapp2.0\02.CarsSalesman.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\02.CarsSalesman\obj\Debug\netcoreapp2.0\02.CarsSalesman.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\02.CarsSalesman\obj\Debug\netcoreapp2.0\02.CarsSalesman.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\02.CarsSalesman\obj\Debug\netcoreapp2.0\02.CarsSalesman.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\02.CarsSalesman\bin\Debug\netcoreapp2.0\02.CarsSalesman.deps.json
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\02.CarsSalesman\bin\Debug\netcoreapp2.0\02.CarsSalesman.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\02.CarsSalesman\bin\Debug\netcoreapp2.0\02.CarsSalesman.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\02.CarsSalesman\bin\Debug\netcoreapp2.0\02.CarsSalesman.dll
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\02.CarsSalesman\bin\Debug\netcoreapp2.0\02.CarsSalesman.pdb
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\02.CarsSalesman\obj\Debug\netcoreapp2.0\02.CarsSalesman.dll
+D:\C# Fundamentals\OOP-Basics\WorkingWithAbstraction\02.CarsSalesman\obj\Debug\netcoreapp2.0\02.CarsSalesman.pdb

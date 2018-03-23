@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.deps.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.dll
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.pdb
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.dll
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.pdb
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.csprojResolveAssemblyReference.cache

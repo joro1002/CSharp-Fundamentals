@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.deps.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.dll
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.pdb
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.dll
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.pdb

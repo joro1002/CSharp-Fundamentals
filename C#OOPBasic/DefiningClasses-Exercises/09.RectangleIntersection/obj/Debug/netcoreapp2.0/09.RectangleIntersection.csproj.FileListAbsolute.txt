@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\09.RectangleIntersection\bin\Debug\netcoreapp2.0\09.RectangleIntersection.deps.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\09.RectangleIntersection\bin\Debug\netcoreapp2.0\09.RectangleIntersection.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\09.RectangleIntersection\bin\Debug\netcoreapp2.0\09.RectangleIntersection.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\09.RectangleIntersection\bin\Debug\netcoreapp2.0\09.RectangleIntersection.dll
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\09.RectangleIntersection\bin\Debug\netcoreapp2.0\09.RectangleIntersection.pdb
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\09.RectangleIntersection\obj\Debug\netcoreapp2.0\09.RectangleIntersection.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\09.RectangleIntersection\obj\Debug\netcoreapp2.0\09.RectangleIntersection.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\09.RectangleIntersection\obj\Debug\netcoreapp2.0\09.RectangleIntersection.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\09.RectangleIntersection\obj\Debug\netcoreapp2.0\09.RectangleIntersection.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\09.RectangleIntersection\obj\Debug\netcoreapp2.0\09.RectangleIntersection.dll
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\09.RectangleIntersection\obj\Debug\netcoreapp2.0\09.RectangleIntersection.pdb

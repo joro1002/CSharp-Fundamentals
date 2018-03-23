@@ -1,0 +1,11 @@
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\Google\bin\Debug\netcoreapp2.0\Google.deps.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\Google\bin\Debug\netcoreapp2.0\Google.runtimeconfig.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\Google\bin\Debug\netcoreapp2.0\Google.runtimeconfig.dev.json
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\Google\bin\Debug\netcoreapp2.0\Google.dll
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\Google\bin\Debug\netcoreapp2.0\Google.pdb
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\Google\obj\Debug\netcoreapp2.0\Google.csprojResolveAssemblyReference.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\Google\obj\Debug\netcoreapp2.0\Google.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfoInputs.cache
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfo.cs
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\Google\obj\Debug\netcoreapp2.0\Google.dll
+D:\C# Fundamentals\OOP-Basics\DefiningClasses-Exercises\Google\obj\Debug\netcoreapp2.0\Google.pdb
